@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ARREGLOBIDIMENSIONAL3JANL/ARREGLOBIDIMENSIONAL3JANL.vcxproj" />
+</Solution>
