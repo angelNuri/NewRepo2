@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PilasACT06CCC/PilasACT06CCC.vcxproj" Id="54afb69f-b68b-4627-a46f-f7cebe130bd3" />
+</Solution>
