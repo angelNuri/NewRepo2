@@ -1,4 +1,4 @@
-// 3LLSC-YairGonzalez-12_262c.cpp :  Arbol General con menu, usando apuntadores de memoria en C++
+// 3JLSC-YairGonzalez-12_262c.cpp :  Arbol General con menu, usando apuntadores de memoria en C++
 // Representacion "primer hijo - siguiente hermano":
 // cada nodo apunta a su PRIMER hijo y a su SIGUIENTE hermano.
 // Asi, los hijos de un nodo forman una lista enlazada simple.
